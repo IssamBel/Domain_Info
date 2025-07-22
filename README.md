@@ -21,7 +21,7 @@ Created by **Issam Belayachi** - Cybersecurity Student
 
 1. Clone the repository:
 ```bash
-[git clone https://github.com/issambel/Domain_Info.git](https://github.com/IssamBel/Domain_Info.git)
-cd DomainScan
+git clone https://github.com/IssamBel/Domain_Info.git
+cd Domain_Info
 pip install -r requirements.txt
 python Domain_info.py
