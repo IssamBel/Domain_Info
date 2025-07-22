@@ -1,0 +1,6 @@
+dnspython
+beautifulsoup4 
+lxml
+ipwhois
+requests
+python-whois
